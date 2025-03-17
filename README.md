@@ -29,5 +29,5 @@ Il détermine si le code respecte les critères de qualité définis (ex. couver
     New Code → Changements récents
     Overall Code → Tout le code du projet
 
-Y a-t-il des Code Smells ? 
-Y a-t-il des Security Hotspots ?
+Y a-t-il des Code Smells ? 3
+Y a-t-il des Security Hotspots ? 0
